@@ -1,10 +1,7 @@
-# A Hitchhiker's Guide To Quantum Computing PESU I/O
+# Assignments for Week 2 of HGQC 
+## Please make sure you've read the [README file](https://github.com/MadhavJivrajani/HGQC_Assignment_Repo/blob/master/README.md) file of the root directory
 
-> Create a seperate directory/folder named after you and submit all assignments in that directory *only.* Send a PR for the same.
+Deadline for writeup assignment: `19th October 2019, 9PM IST`   
+Deadline for coding assignment: `20th October 2019, 9PM IST`
 
-## For writeups on specific topics, follow the below mentioned naming convention for your files: 
-`name_week-no._write-up.pdf` 
-Make sure all your submissions for writeups are in `pdf` format. 
-
-## For coding assignments, do the following: 
-Your filename should be in the format: `name_week-no._code.py`
+Don't forget about the quiz! Due on `20th October 2019, 9PM IST`
